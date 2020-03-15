@@ -3,6 +3,11 @@
 
 The SDPG implementation is built upon available D4PG code at https://github.com/msinto93/D4PG
 
+## Video
+
+Check "sdpg_video.mp4" for a short demo of agents trained by SDPG.
+
+
 ## Usage
 
 To select the environment and other hyperparameters such as learning rate and discount factor, modify "params.py"
