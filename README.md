@@ -1,5 +1,4 @@
 ########  Sample-based Distributional Policy Gradient (SDPG) 
-########  Submitted to IROS 2021
 
 The SDPG implementation is built upon available D4PG code at https://github.com/msinto93/D4PG
 
